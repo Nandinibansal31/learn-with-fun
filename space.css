@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f3f3f3; */
+
+  background-image: url('pexels-alberlan-barros-7311920.jpg');
+  /* background-color: black; */
+  background-repeat: no-repeat;
+  background-size: cover;
+background-position: center;}
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color:white;
+  }
+  
+  .info-card {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .earth {
+    border-top: 8px solid #1abc9c;
+  }
+  
+  .black-hole {
+    border-top: 8px solid #9b59b6;
+  }
+  
+  .milky-way {
+    border-top: 8px solid #3498db;
+  }
+  
+  .sun {
+    border-top: 8px solid #f39c12;
+  }
+  .quiz {
+    border-top: 8px solid palevioletred;
+  }
+  
+  .info-card h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .info-card p {
+    color: #666;
+  }
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  
